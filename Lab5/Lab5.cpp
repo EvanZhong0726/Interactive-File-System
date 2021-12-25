@@ -68,4 +68,3 @@ int main()
 	//run the program
 	return prompt->run();
 }
-
