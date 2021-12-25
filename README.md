@@ -3,10 +3,10 @@ A simple interactive file system that allows storage of simple files such as img
 
 Files: allow storage of txt and img files.
 
-Commands:
+Commands supported:
 Touch: to create a file, user can choose to add a password
 
-ls: produce a list of all files contained in the system, user can choose to display the list in different formats
+Ls: produce a list of all files contained in the system, user can choose to display the list in different formats
 
 Rm: remove a file from the system
 
@@ -20,5 +20,5 @@ Ted: allows the user to create, edit, and display the file in one simple step
 
 Rn: allows the user to rename a file
 
-chmod: allows the user to change the write-access of the file
+Chmod: allows the user to change the write-access of the file
 
