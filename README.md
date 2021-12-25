@@ -1,5 +1,5 @@
 # Interactive-File-System
-A simple interactive file system that allows storage of simple files such as img and txt, supports a user interface to allow interaction with the file system and the files it contains. (A class project focusing on implementing OOP design principles and patterns, including command, proxy, abstract factory, and visitor patterns)
+A simple interactive file system that allows storage of simple files such as img and txt, supports a user interface to allow interaction with the file system and the files it contains. (A class group project focusing on implementing OOP design principles and patterns, including command, proxy, abstract factory, and visitor patterns)
 
 Files: allow storage of txt and img files.
 
