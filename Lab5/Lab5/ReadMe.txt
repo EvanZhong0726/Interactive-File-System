@@ -1,12 +1,4 @@
 Lab 5 Readme
-Evan Zhong, Udi Rose, Jackie Song
-
-
-Group contribution:
-Evan Zhong: All files, commands, and methods + extra credit
-Udi Rose: All files, commands, and methods + extra credit
-Jackie Song: made readme
-
 
 Additional MacroCommand we made: ted
 	stands for touch edit display. calls touch then cat then display all at once when creating a file
